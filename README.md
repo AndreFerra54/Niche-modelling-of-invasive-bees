@@ -29,7 +29,7 @@ When the script is run, the following folders will appear:
 
 ## Workflow overview
 
-1. Copy the **necessary files**
+1. Clone the **necessary files**
 2. Open `Alien-Bees.R` in RStudio
 3. Run:
 
